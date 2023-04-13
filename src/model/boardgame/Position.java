@@ -1,16 +1,16 @@
-package boardgame;
+package model.boardgame;
 
-public class Board {
+public class Position {
     
-
     private int row;
     private int column;
-    private Piece[][] pieces;
 
-    public Board(int row, int column) {
+    public Position(){
+    }
+
+    public Position(int row, int column) {
         this.row = row;
         this.column = column;
-        pieces = new Piece[row][column];
     }
 
     public int getRow() {
@@ -28,5 +28,9 @@ public class Board {
     public void setColumn(int column) {
         this.column = column;
     }
-    
+
+    @Override
+    public String toString() {
+        return row + ", " + column;
+    }
 }
