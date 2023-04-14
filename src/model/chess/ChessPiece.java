@@ -4,7 +4,7 @@ import model.boardgame.Board;
 import model.boardgame.Piece;
 import model.chess.enums.Color;
 
-public class ChessPiece extends Piece {
+public abstract class ChessPiece extends Piece {
     
     private Color color;
 
