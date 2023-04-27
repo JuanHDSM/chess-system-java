@@ -99,10 +99,10 @@ public class UI {
         }
         else {
             if (piece.getColor() == Color.WHITE) {
-                System.out.print(ANSI_BLACK + ANSI_WHITE_BACKGROUND + piece + ANSI_RESET);
+                System.out.print(ANSI_WHITE + piece + ANSI_RESET);
             }
             else {
-                System.out.print(ANSI_YELLOW + ANSI_YELLOW_BACKGROUND + piece + ANSI_RESET);
+                System.out.print(ANSI_YELLOW + piece + ANSI_RESET);
             }
         }
         System.out.print(" ");
