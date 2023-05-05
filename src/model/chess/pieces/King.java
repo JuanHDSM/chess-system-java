@@ -5,7 +5,6 @@ import model.boardgame.Position;
 import model.boardgame.Board;
 import model.chess.ChessMatch;
 import model.chess.ChessPiece;
-import model.chess.ChessPosition;
 import model.chess.enums.Color;
 
 public class King extends ChessPiece {
