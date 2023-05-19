@@ -41,3 +41,10 @@
   </p>
   
 - ### Ready!
+
+## Author
+  
+  Juan Holy
+
+https://www.linkedin.com/in/juanholy/
+
