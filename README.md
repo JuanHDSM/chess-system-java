@@ -16,7 +16,7 @@
 </p>
 
 <p>
-  It's a Chess Game with international rule, build with Java and envoled Object-Orientation Programming topics like encapsulation / acess modifiers, constructors, toString(Object / overrinding), 
+  It's a Chess Match Simulate with international rule, build with Java and envoled Object-Orientation Programming topics like encapsulation / acess modifiers, constructors, toString(Object / overrinding), 
   associations, inheritance, downcasting / upcasting and others.
 </p>
 
